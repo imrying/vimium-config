@@ -1,4 +1,5 @@
 # vimium-config
+colemak keybindings ish
 ```
 # Custom key mappings
 map e scrollDown
